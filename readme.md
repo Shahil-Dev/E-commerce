@@ -14,3 +14,10 @@ Bistro Boss is a comprehensive restaurant management website built using the MER
 ## Landing Page Structucture
 
 <img src="./landing-structure.png">
+
+
+
+
+
+git config --global user.name "Shahil-Dev"
+git config --global user.email "yemtehan80@gmail.com"
