@@ -20,4 +20,8 @@ Bistro Boss is a comprehensive restaurant management website built using the MER
 
 
 git config --global user.name "Shahil-Dev"
-git config --global user.email "yemtehan80@gmail.com"
+git config --global user.email "alfee9006@gmail.com"
+
+git add .
+git commit -m "third commit"
+git push origin main
